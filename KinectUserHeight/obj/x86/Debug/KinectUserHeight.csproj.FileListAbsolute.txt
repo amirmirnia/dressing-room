@@ -1,0 +1,29 @@
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.exe
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.pdb
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.baml
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\App.g.cs
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight_MarkupCompile.cache
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.g.resources
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.Properties.Resources.resources
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.exe
+C:\Users\v-vapter\My Projects\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.pdb
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csprojResolveAssemblyReference.cache
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.baml
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\MainWindow.g.cs
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\App.g.cs
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight_MarkupCompile.cache
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.g.resources
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.Properties.Resources.resources
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csproj.GenerateResource.cache
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csproj.CoreCompileInputs.cache
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.exe
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.pdb
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.exe
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\bin\Debug\KinectUserHeight.pdb
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\bin\Debug\Microsoft.Kinect.dll
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\bin\Debug\Microsoft.Kinect.xml
+C:\Users\mirnia\Desktop\KinectUserHeight\KinectUserHeight\obj\x86\Debug\KinectUserHeight.csproj.CopyComplete
